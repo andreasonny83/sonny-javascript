@@ -1,0 +1,4 @@
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: http://source.com
+Access-Control-Allow-Headers: Content-Type, *
